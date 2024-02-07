@@ -1,0 +1,2 @@
+This is written to file line by line
+Will be printed line by line

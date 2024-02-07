@@ -1,0 +1,1 @@
+ printf("Values after swapping in main: %d %d\n",a,b);
